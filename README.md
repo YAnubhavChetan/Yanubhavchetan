@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![YAnubhavChetan's github stats](https://github-readme-stats.vercel.app/api?username=yanubhavchetan&show_icons=true&count_private=true&show_icons=true&theme=react)
+
+![YAnubhavChetan's top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yanubhavchetan&layout=compact&theme=react)
+
+Viewer Count :
+ ![Visitor Count](https://profile-counter.glitch.me/{yanubhavchetan}/count.svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yanubhavchetantheme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+[![@yanubhavchetan's Holopin board](https://holopin.me/yanubhavchetan)](https://holopin.io/@yanubhavchetan)
